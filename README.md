@@ -27,8 +27,8 @@ Skills Demonstrated
 - Predictive Maintenance & Time-Series Reasoning
 
 Dataset
-NASA C-MAPSS Turbofan Engine Degradation Simulation Dataset (Kaggle)
-https://www.kaggle.com/datasets/bishals098/nasa-turbofan-engine-degradation-simulation?resource=download&select=readme.txt
+- NASA C-MAPSS Turbofan Engine Degradation Simulation Dataset (Kaggle)
+- https://www.kaggle.com/datasets/bishals098/nasa-turbofan-engine-degradation-simulation?resource=download&select=readme.txt
 
 Author
 Yein Lee
